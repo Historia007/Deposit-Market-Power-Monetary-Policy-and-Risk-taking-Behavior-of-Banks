@@ -1,0 +1,128 @@
+[
+  {
+    "path": "code/data/01_clean_fdic_call_reports.py",
+    "source": "Empirical Analysis/scripts/01_clean_fdic_call_reports.ipynb",
+    "source_sha256": "2fd6d03261e8b94128765a50dcc835b877d4a0f458ea3a8c95e7a0810468344f",
+    "packaged_sha256": "7521900af1f7c0d39b9319e484540d6bf9dceaeae9dfb9330aeaad19c6454869"
+  },
+  {
+    "path": "code/data/02_clean_fdic_sod.py",
+    "source": "Empirical Analysis/scripts/02_clean_fdic_sod.ipynb",
+    "source_sha256": "07379509184874bc3b21000dc26430ebe1b246571730221e775a7eb46c23c1c5",
+    "packaged_sha256": "54cf668af5010f29bb2b94a65611144f8680bf7ffdef47df91a41682ccfbc855"
+  },
+  {
+    "path": "code/data/03_clean_dealscan.py",
+    "source": "Empirical Analysis/scripts/03_clean_dealscan.ipynb",
+    "source_sha256": "803d57b5248282bf7b5ff94be793affe4781fc579af5dc8bc203ba1fde83aa0d",
+    "packaged_sha256": "42352b24d3d6200af91e599e18aca0b3f5bd235d6b0b14597b67d1848717d2c4"
+  },
+  {
+    "path": "code/data/04_clean_compustat.py",
+    "source": "Empirical Analysis/scripts/04_clean_compustat.ipynb",
+    "source_sha256": "62835777641e812a72f58bcf0efa82a801e53eba44ddd6ee94c3a13c311af770",
+    "packaged_sha256": "c398132f99acbd0ccadedab626c7db4d1d5a37c4072301eb0e233c0d1d8f9403"
+  },
+  {
+    "path": "code/data/05_link_dealscan_compustat.py",
+    "source": "Empirical Analysis/scripts/05_link_dealscan_compustat.ipynb",
+    "source_sha256": "20892a9d07fdb25de3443026ee5f9edcd64af9e836778e9df80067bdeea2913b",
+    "packaged_sha256": "a705c03d748feeead3aab3f412bbb48fb6130ef1b56af1bfb059f6564ef44a30"
+  },
+  {
+    "path": "code/data/08_manual_linking_audit.py",
+    "source": "Empirical Analysis/scripts/08_manual_linking_audit.ipynb",
+    "source_sha256": "4a2f82112a58eefd4483c7a1d542b96bf443260060509d0fc80e937ac2383da7",
+    "packaged_sha256": "60054510599d6a8a1000e6928f587bea2ea7eef42bd95d6978837c399a2709fb"
+  },
+  {
+    "path": "code/data/09_prepare_final_regression_panel.py",
+    "source": "Empirical Analysis/scripts/09_prepare_final_regression_panel.ipynb",
+    "source_sha256": "c17cb5c4150cdce8589e9baf1753ca4d8d5ef3ccc6dc0538b48a053a40de5759",
+    "packaged_sha256": "3c2e2336ca0c312c8c108922c65dda9837ce90ce300a34cf93d7fe9f11a96f24"
+  },
+  {
+    "path": "code/data/06_merge_four_tables.py",
+    "source": "Empirical Analysis/scripts/06_merge_four_tables.py",
+    "source_sha256": "0004ad30545e4b8f68439d22304250c90e443575916aff888dd7a1d279c5f06a",
+    "packaged_sha256": "3f7ab990c8aa8d7349d0342483045df03463c16a472d5de50941b686c2a18363"
+  },
+  {
+    "path": "code/data/07_verify_lender_bank_matching.py",
+    "source": "Empirical Analysis/scripts/07_verify_lender_bank_matching.py",
+    "source_sha256": "fe68db8de93d5cac283bb7a6222ac4c9038112f245449856aca30d35913e6ea9",
+    "packaged_sha256": "b9b13497c8216244600890e4a9551ff0b88e219a7d3ed8eacfba2fe2b7ef0de8"
+  },
+  {
+    "path": "code/data/10_investigate_analytical_key_duplicates.py",
+    "source": "Empirical Analysis/scripts/10_investigate_analytical_key_duplicates.py",
+    "source_sha256": "3b28a0592f52708af564c8c69de4ce37b09118e743b83cd93782fa01aa022b93",
+    "packaged_sha256": "37f23ecebd4f6ec79cc4d19cad112a6d21bfadd7ad438f7dd5c923cc27a2d2e9"
+  },
+  {
+    "path": "code/data/11_pipeline_integrity_checks.py",
+    "source": "Empirical Analysis/scripts/11_pipeline_integrity_checks.py",
+    "source_sha256": "045aca977b585b6ec70511ed3484a96f0ab15f191e89453ea49868935f81b292",
+    "packaged_sha256": "5f5fe35e192b1661eaf5d33208c1675088f48101a5d081c39a01f93c9645794b"
+  },
+  {
+    "path": "code/data/40_build_lender_specific_spread_controls.py",
+    "source": "Empirical Analysis/scripts/40_build_lender_specific_spread_controls.py",
+    "source_sha256": "b7ec4a18176e823d523da6209a416e2511db6038f21b09a69a6713f6e5c171e5",
+    "packaged_sha256": "db0c4713d701cf98571a3913ce5961498496ce53230294483010931997285124"
+  },
+  {
+    "path": "code/data/56_refresh_stata_inputs_from_final_panel.py",
+    "source": "Empirical Analysis/scripts/56_refresh_stata_inputs_from_final_panel.py",
+    "source_sha256": "2154a2777d528d0d9faf450fe6b44880b8e25c103409aa984a95d4b1084abf9a",
+    "packaged_sha256": "6299776bf233263b0779f5285c9c35b70f9853bd09cde6eeb5844681386b1a65"
+  },
+  {
+    "path": "code/data/178_build_balance_table_and_uninsured.py",
+    "source": "Empirical Analysis/scripts/178_build_balance_table_and_uninsured.py",
+    "source_sha256": "f5c34d1ecf718b72cd2e0802562cd8789521839065a178cd58e4fcc3d41a53d9",
+    "packaged_sha256": "963c373c6c2ef3c9ec46992655e0b7ab14aec8d4622c7864032bfafac110f74a"
+  },
+  {
+    "path": "code/risk/09_download_wrds_market_inputs.py",
+    "source": "Empirical Analysis/Data_Handoff/code/09_download_wrds_market_inputs.py",
+    "source_sha256": "ac36350ca1dadb973e405ce9dddd5819427a0670f34b559f5f0fd59acfb2891e",
+    "packaged_sha256": "ac36350ca1dadb973e405ce9dddd5819427a0670f34b559f5f0fd59acfb2891e"
+  },
+  {
+    "path": "code/risk/10_merge_compustat_crsp_ccm.py",
+    "source": "Empirical Analysis/Data_Handoff/code/10_merge_compustat_crsp_ccm.py",
+    "source_sha256": "12277f84dc9487e6b64553bee6492859ca642a65459df5caa6bbe514317c898d",
+    "packaged_sha256": "12277f84dc9487e6b64553bee6492859ca642a65459df5caa6bbe514317c898d"
+  },
+  {
+    "path": "code/risk/11_build_bs2008_default_probability.py",
+    "source": "Empirical Analysis/Data_Handoff/code/11_build_bs2008_default_probability.py",
+    "source_sha256": "eed2162b4f0e825790f6bab113a5bb2f3143df3c3d67786aec2d9de15795b0c8",
+    "packaged_sha256": "83dd987762cb45b77035f810d0fd33d3ea383e7e9530c58165bf218dc0388f27"
+  },
+  {
+    "path": "code/risk/14_export_pit_risk_sidecar.py",
+    "source": "Empirical Analysis/Data_Handoff/code/14_export_pit_risk_sidecar.py",
+    "source_sha256": "7cf9998edc5b1a289532ed067177ad1676363af24d3e38e0c3b7fe61877856e6",
+    "packaged_sha256": "7cf9998edc5b1a289532ed067177ad1676363af24d3e38e0c3b7fe61877856e6"
+  },
+  {
+    "path": "code/analysis/208_generate_thesis_main_tables.do",
+    "source": "Empirical Analysis/scripts/208_generate_thesis_main_tables.do",
+    "source_sha256": "ecc00e081723481759a97e22db5d7217efc18e5bb6e07b29a1cdc42c8e727b11",
+    "packaged_sha256": "1bf9a18edfe1141f4b3daa179d2c25627ed2ca9f3a6daba04de743dbd31d10e6"
+  },
+  {
+    "path": "code/analysis/206_cr_bankyear_unins_split_full_tables.do",
+    "source": "Empirical Analysis/scripts/206_cr_bankyear_unins_split_full_tables.do",
+    "source_sha256": "6450ca81963762697ae365a45f24c3761ccbbe911d6dea84520fb875505cc1dc",
+    "packaged_sha256": "f74eb406acd1e48089a1b1ef6f523173fd7ee25a628ba09584529e66600aaf3a"
+  },
+  {
+    "path": "code/reporting/render_thesis_tables.py",
+    "source": "Empirical Analysis/scripts/208_render_thesis_main_tables.py",
+    "source_sha256": "15b69fed98f972e814cf621a0b57dc22328e6a9b7d934bb61dfb66be41c6bc17",
+    "packaged_sha256": "15b69fed98f972e814cf621a0b57dc22328e6a9b7d934bb61dfb66be41c6bc17"
+  }
+]
